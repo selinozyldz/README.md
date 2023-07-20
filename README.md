@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selinozyldz&label=Profile%20views&color=0eb437&style=flat" alt="selinozyldz" /> </p>
 
-- 🌱 I’m currently learning **Unity & C#**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **selinozyildiz@gmail.com**
 
