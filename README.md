@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Selin</h1>
-<h3 align="center">A software developer trying to turn her imagination into a game</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selinozyldz&label=Profile%20views&color=0eb437&style=flat" alt="selinozyldz" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React.js** and **React Native** :)
 
 - 📫 How to reach me **selinozyildiz@gmail.com**
 
